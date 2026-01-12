@@ -1,8 +1,8 @@
 export const firebaseConfig = {
-  apiKey: "XXX",
-  authDomain: "XXX.firebaseapp.com",
-  projectId: "XXX",
-  storageBucket: "XXX.appspot.com",
-  messagingSenderId: "XXX",
-  appId: "XXX",
+  apiKey: '…',
+  authDomain: 'ton-projet.firebaseapp.com',
+  projectId: 'ton-projet',
+  storageBucket: 'ton-projet.appspot.com',
+  messagingSenderId: '…',
+  appId: '…',
 };
